@@ -174,7 +174,7 @@ p{
   margin-right: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 400;
-  font-size: 100%;
+  font-size: 150%;
 }
 .aboutus1{
   background-image: linear-gradient(#8c3bce, #0bfe74);
@@ -201,7 +201,9 @@ h2{
 }
 .card{
   padding: 10px;
-  /* margin: 10px; */
+}
+.article{
+  background-image: linear-gradient(#8c3bce, #0bfe74);
 }
 /* Footer */
 .footer{
