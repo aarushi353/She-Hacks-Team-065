@@ -177,7 +177,7 @@ p{
   font-size: 150%;
 }
 .aboutus1{
-  background-image: linear-gradient(#8c3bce, #0bfe74);
+  background-image: linear-gradient(#037ac4, #e8ddd9);
   display: flex;
   flex-direction: row-reverse;
   padding: 50px;
@@ -203,7 +203,7 @@ h2{
   padding: 10px;
 }
 .article{
-  background-image: linear-gradient(#8c3bce, #0bfe74);
+  background-image: background-image: linear-gradient(#037ac4, #e8ddd9);
 }
 
 /* Footer */
